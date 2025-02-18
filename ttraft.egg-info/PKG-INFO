@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ttraft
+Version: 0.2.0
+Summary: TTRaft Python Package
+Home-page: https://github.com/AhmedElghaly/Python_Builds.git
+Author: Ahmed Saad
+Author-email: ahmedsaad.2feb=gmail.com
+License: UNKNOWN
+Description: # Python_Builds
+        This Repo just for the missing python libraries
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
